@@ -59,13 +59,13 @@ openclaw hooks enable self-improvement
 Create the `memory/learning/` directory in your workspace:
 
 ```bash
-mkdir -p ~/.openclaw/workspace/.learnings
+mkdir -p ~/.openclaw/workspace/memory/learning
 ```
 
 Or in the skill directory:
 
 ```bash
-mkdir -p ~/.openclaw/skills/self-improving-agent/.learnings
+mkdir -p ~/.openclaw/skills/self-improving-agent/memory/learning
 ```
 
 ## Injected Prompt Files

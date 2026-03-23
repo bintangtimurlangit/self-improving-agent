@@ -12,11 +12,11 @@ const REMINDER_CONTENT = `## Self-Improvement Reminder
 After completing tasks, evaluate if any learnings should be captured:
 
 **Log when:**
-- User corrects you → \`.learnings/LEARNINGS.md\`
-- Command/operation fails → \`.learnings/ERRORS.md\`
-- User wants missing capability → \`.learnings/FEATURE_REQUESTS.md\`
-- You discover your knowledge was wrong → \`.learnings/LEARNINGS.md\`
-- You find a better approach → \`.learnings/LEARNINGS.md\`
+- User corrects you → \`memory/learning/LEARNINGS.md\`
+- Command/operation fails → \`memory/learning/ERRORS.md\`
+- User wants missing capability → \`memory/learning/FEATURE_REQUESTS.md\`
+- You discover your knowledge was wrong → \`memory/learning/LEARNINGS.md\`
+- You find a better approach → \`memory/learning/LEARNINGS.md\`
 
 **Promote when pattern is proven:**
 - Behavioral patterns → \`SOUL.md\`
